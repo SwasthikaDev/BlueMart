@@ -1,0 +1,73 @@
+const products = [
+  {
+    name: 'Buddha Painting',
+    image: '/images/budha.jpg',
+    description:
+      'Beautiful Buddha painting. Decorate your home with the Enlightened One who has transcended Karma and escaped the cycle of birth and rebirth. ',
+    brand: 'TheArtistHub',
+    category: 'HomeDecor',
+    price: 100.00,
+    countInStock: 3,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Purple Dream Catcher',
+    image: '/images/dc.jpg',
+    description:
+      'Introducing the new purple dream catcher.The dreamcatcher is a protective talisman that is used to protect people from nightmares and bad dreams. ',
+    brand: 'TheArtistHub',
+    category: 'HomeDecor',
+    price: 399.99,
+    countInStock: 10,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Rainbow Dream Catcher',
+    image: '/images/dm.jpg',
+    description:
+      'The dreamcatcher is a protective talisman that is used to protect people from nightmares and bad dreams.Native American cultures believe that both good and bad dreams fill the air at night.',
+    brand: 'TheArtistHub',
+    category: 'HomeDecor',
+    price: 329.99,
+    countInStock: 2,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Embroided Face Mask',
+    image: '/images/ma.jpeg',
+    description: '1. Outer fluid-repellent layer: Typically colored blue or green, this layer repels fluid, helping to reduce the chance that viruses and bacteria from the air attach to the mask. 2. High efficiency filter middle layer: The middle layer is what does the hard work in capturing viruses and bacteria',
+     brand: 'DocMask',
+    category: 'HomeDecor',
+    price: 99.99,
+    countInStock: 10,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Framed Krishna Painting',
+    image: '/images/Krishna.jpg',
+    description: 'Over the years, art lovers have been collecting Radha Krishna paintings that depict the romantic life of a mortal woman and a deity. The paintings have become a household decor item for many.',  
+    brand: 'ArtHub',
+    category: 'HomeDecor',
+    price: 649.99,
+    countInStock: 7,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Embroided Face Mask',
+    image: '/images/mask.jfif',
+    description: '1. Outer fluid-repellent layer: Typically colored blue or green, this layer repels fluid, helping to reduce the chance that viruses and bacteria from the air attach to the mask. 2. High efficiency filter middle layer: The middle layer is what does the hard work in capturing viruses and bacteria',
+     brand: 'DocMask',
+    category: 'HomeDecor',
+    price: 29.99,
+    countInStock: 0,
+    rating: 0,
+    numReviews: 0,
+  },
+]
+
+export default products
